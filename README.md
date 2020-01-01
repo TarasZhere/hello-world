@@ -1,4 +1,6 @@
 # hello-world
 Just another repostory
 
-This is an edited file.
+Name:    Taras Zherebetskyy
+Year:    1997
+Nation:  Italy
